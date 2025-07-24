@@ -100,4 +100,4 @@ BiocManager::install(c(
 
 ## Contact
 
-Project maintained by Xinmei Huang. For inquiries or contributions, please open an issue on GitHub or contact via email.
+Project maintained by Xinmei Huang. For inquiries or contributions, please open an issue on GitHub.
